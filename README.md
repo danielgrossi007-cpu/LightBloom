@@ -24,8 +24,7 @@ keyboards, mice and microphones together, with the dark glass look of the Bloom 
 | | |
 |---|---|
 | 💡 **Everything in one app** | Motherboard, RAM, AIO pump, fans, keyboard, mouse and microphone, without NZXT CAM, SignalRGB, iCUE or Armoury Crate. |
-| 🖥️ **Your PC, drawn** | *My PC* draws your case with the real lights of each component. Click a part to change its colour, effect, brightness and speed. |
-| 🧩 **Configuration** | Tell LightBloom where your fans and radiator are mounted (top, side, bottom, back) and move or swap them in one click. |
+| 🖥️ **My PC** | A clean list of everything that lights up inside your case, with its real colours. Click a part to change its colour, effect, brightness and speed. |
 | ⌨️ **Devices** | Keyboards, mice and microphones get their own page, outside the case view. |
 | 🎨 **Profiles** | Ready-made profiles (Sunflower, Pure white, Rainbow, Night, Off) plus your own. LightBloom remembers your last setup by itself. |
 | 🔁 **Lights on at startup** | Your last configuration is applied when Windows starts, before you even log in, and every time you open the app. Close the window and LightBloom quits: only the tiny light engine keeps running (about 30 MB of RAM, ~0% CPU), so your lights stay exactly as you left them. Reopen it and it reconnects instantly, no rescan. |
@@ -37,7 +36,7 @@ keyboards, mice and microphones together, with the dark glass look of the Bloom 
 <table>
   <tr>
     <td><img src="assets/screenshots/pc.png" alt="My PC" /><p align="center"><b>My PC</b></p></td>
-    <td><img src="assets/screenshots/config.png" alt="Configuration" /><p align="center"><b>Configuration</b></p></td>
+    <td><img src="assets/screenshots/pc-light.png" alt="Lights panel" /><p align="center"><b>Lights</b></p></td>
   </tr>
   <tr>
     <td><img src="assets/screenshots/devices.png" alt="Devices" /><p align="center"><b>Devices</b></p></td>
