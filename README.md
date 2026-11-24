@@ -28,7 +28,7 @@ keyboards, mice and microphones together, with the dark glass look of the Bloom 
 | 🧩 **Configuration** | Tell LightBloom where your fans and radiator are mounted (top, side, bottom, back) and move or swap them in one click. |
 | ⌨️ **Devices** | Keyboards, mice and microphones get their own page, outside the case view. |
 | 🎨 **Profiles** | Ready-made profiles (Sunflower, Pure white, Rainbow, Night, Off) plus your own. LightBloom remembers your last setup by itself. |
-| 🔁 **Lights on at startup** | Your last configuration is applied when Windows starts and every time you open the app. The engine stays in the tray using about 0.1% CPU and ~30 MB of RAM. |
+| 🔁 **Lights on at startup** | Your last configuration is applied when Windows starts, before you even log in, and every time you open the app. Close the window and LightBloom quits: only the tiny light engine keeps running (about 30 MB of RAM, ~0% CPU), so your lights stay exactly as you left them. Reopen it and it reconnects instantly, no rescan. |
 | 🧰 **Drivers first** | The installer installs the PawnIO driver (RAM and motherboard lighting) **before** LightBloom, then the app and the OpenRGB engine — one setup for everything. |
 | 🚦 **Conflict check** | Detects other RGB apps that lock your devices and closes them (and removes them from startup) in one click. |
 
